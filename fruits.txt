@@ -3,3 +3,4 @@ Orange
 Peach
 Grapes
 Apple
+Pear
