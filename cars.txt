@@ -5,3 +5,5 @@ Audi
 Tesla
 Kia
 Hyundai
+Mazda
+Lincoln
