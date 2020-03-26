@@ -8,3 +8,4 @@ Hyundai
 Mazda
 Lincoln
 Honda
+Subaru
