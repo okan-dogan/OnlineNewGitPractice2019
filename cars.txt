@@ -9,3 +9,5 @@ Mazda
 Lincoln
 Honda
 Subaru
+GMC
+Chevrolet
